@@ -64,9 +64,7 @@
 ![Entity-Relationship Diagram](images/erd.png)
 
 ### b. Relational Model
-![Relational Model - Diagram 1](images/relational_model_1.png)
-
-![Relational Model - Diagram 2](images/relational_model_2.png)
+![Relational Model - Diagram](images/relational_model.png)
 
 ### c. Normalization Explanation
 The schema meets Third Normal Form (3NF):
